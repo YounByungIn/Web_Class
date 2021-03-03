@@ -7,6 +7,9 @@ public class Hello {
 		System.out.println("Hello World");
 		// 추가 코딩
 		System.out.println("Hi~");
+		
+		int age = 29;
+		String name = "윤병인";
 	}
 
 }
