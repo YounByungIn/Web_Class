@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("Hello World");
 		// 추가 코딩
 		System.out.println("Hi~");
+		// 홍길동 팀원이 코딩 추가/수정
+		System.out.println("Hong Edit");
 	}
 
 }
